@@ -14,6 +14,8 @@ Para lograrlo se hizo provecho del transpilador Babel.
 - Tener instalado nodejs con la versión mas reciente > 8.12.0
 - Descargar o clonar el proyecto 
 - En la raiz del proyecto descargado ejecutar el comando ```npm install```
+- Para aprovechar el uso de Prettier(formateador de código) y el eslint(Linter de javascript), instalar
+las extensiones correspondientes Prettier y eslint en visual studio code
 
 ## Autor
 Creado por Jean Paul Saucedo
