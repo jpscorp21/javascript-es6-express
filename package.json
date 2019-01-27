@@ -22,8 +22,6 @@
     },
     "license": "MIT",
     "dependencies": {
-        "body-parser": "^1.18.3",
-        "cors": "^2.8.5",
         "express": "^4.16.4"
     },
     "devDependencies": {
@@ -33,7 +31,11 @@
         "@babel/preset-env": "^7.3.1",
         "eslint": "^5.12.1",
         "eslint-config-airbnb": "^17.1.0",
+        "eslint-config-prettier": "^4.0.0",
         "eslint-plugin-import": "^2.15.0",
-        "nodemon": "^1.18.9"
+        "eslint-plugin-prettier": "^3.0.1",
+        "nodemon": "^1.18.9",
+        "prettier": "^1.16.1",
+        "prettier-eslint": "^8.8.2"
     }
 }

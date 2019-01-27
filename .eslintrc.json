@@ -1,7 +1,9 @@
 {
-    "extends": "airbnb-base",    
+    "extends": ["airbnb-base", "plugin:prettier/recommended"],    
+    "plugins": ["prettier"],
     "root": true,
-    "rules": {
+    "rules": { 
+        "prettier/prettier": ["error"],
         "camelcase": 2,
         "space-infix-ops": 2,
         "no-console":"off",

@@ -1,0 +1,11 @@
+{        
+    "[javascript]": {
+        "editor.formatOnSave": true,        
+    },    
+    "vetur.format.defaultFormatter.js": "prettier-eslint",
+    "prettier.eslintIntegration": true,    
+    // "prettier.disableLanguages": [
+    //     "js"
+    // ],
+    "prettier.singleQuote": true
+}
